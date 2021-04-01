@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  kobs:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-04-01T23:21:21.394644196Z"
+    description: Kubernetes Observability Platform
+    digest: aac60b2d8e5a6c484483b14d25c2f07dfc376bf5830f06a9cc0972fa39921e1c
+    home: https://kobs.io
+    icon: https://kobs.io/TODO.svg
+    name: kobs
+    type: application
+    urls:
+    - https://kobsio.github.io/helm-repository/kobs-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-01T23:21:21.386313599Z"
