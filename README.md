@@ -3,7 +3,7 @@
 Add this Helm repository:
 
 ```sh
-helm repo add kobs https://kobsio.github.io/helm-repository
+helm repo add kobs https://helm.kobs.io
 helm repo list
 ```
 
