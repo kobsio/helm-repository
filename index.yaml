@@ -3,7 +3,19 @@ entries:
   kobs:
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.467398372Z"
+    created: "2022-01-09T10:18:46.232050881Z"
+    description: Kubernetes Observability Platform
+    digest: ff91300b30b162a67b02b82d8272b3f4db680a548c9d3c5f01cacfcbb833c14a
+    home: https://kobs.io
+    icon: https://kobs.io/assets/images/logo.svg
+    name: kobs
+    type: application
+    urls:
+    - https://helm.kobs.io/kobs-0.12.0.tgz
+    version: 0.12.0
+  - apiVersion: v2
+    appVersion: v0.7.0
+    created: "2022-01-09T10:18:46.230642892Z"
     description: Kubernetes Observability Platform
     digest: 116ced338c6c3f2112a3776353d687527a0990b03a287c3488775ca0b6921598
     home: https://kobs.io
@@ -15,7 +27,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.466354478Z"
+    created: "2022-01-09T10:18:46.229513601Z"
     description: Kubernetes Observability Platform
     digest: a58073f349b970695ef279c8eb5bc6b816ac5614b46df48a64e0c368c34d78cd
     home: https://kobs.io
@@ -27,7 +39,7 @@ entries:
     version: 0.10.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.465362084Z"
+    created: "2022-01-09T10:18:46.228236311Z"
     description: Kubernetes Observability Platform
     digest: 74b6d7ff105f6aa7009702cec8cb5222aad86ade857c53fe8457e48759b4178b
     home: https://kobs.io
@@ -39,7 +51,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.495414605Z"
+    created: "2022-01-09T10:18:46.270917182Z"
     description: Kubernetes Observability Platform
     digest: e25b7b5490254fabde67caf0787314efb6b67469ea8891bda7cab5e36198a1e7
     home: https://kobs.io
@@ -51,7 +63,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.494742309Z"
+    created: "2022-01-09T10:18:46.270065889Z"
     description: Kubernetes Observability Platform
     digest: 261209b7818e313511ea313b8d70e45c4456e877f3e8cbca3647d94df6110644
     home: https://kobs.io
@@ -63,7 +75,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.493963014Z"
+    created: "2022-01-09T10:18:46.269172695Z"
     description: Kubernetes Observability Platform
     digest: 121b27e94e7f8d15948d15d406be22a98874feadf9cad4a74599e8605ed1bf54
     home: https://kobs.io
@@ -75,7 +87,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.493202618Z"
+    created: "2022-01-09T10:18:46.268244603Z"
     description: Kubernetes Observability Platform
     digest: 6e324a2fcf55b96da6a8f799b70005d4832b3c7ca0ae352c03c37c52261abdc7
     home: https://kobs.io
@@ -87,7 +99,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.492533822Z"
+    created: "2022-01-09T10:18:46.267362909Z"
     description: Kubernetes Observability Platform
     digest: 797671b8024b402139fc5b89c16b063a5e27847f18e1250471c9b2d156bcc5a9
     home: https://kobs.io
@@ -99,7 +111,7 @@ entries:
     version: 0.8.4
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.491459029Z"
+    created: "2022-01-09T10:18:46.266550516Z"
     description: Kubernetes Observability Platform
     digest: 3e73abe6ce3b842860428f28a4b8ea20f9c7a1bd397c0e33d35ead9384465a6f
     home: https://kobs.io
@@ -111,7 +123,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.490146636Z"
+    created: "2022-01-09T10:18:46.265470824Z"
     description: Kubernetes Observability Platform
     digest: 897b73cc3ecf72d2bddac91649f2bf3587c8429b6562972dd3f24c6e3cb67f25
     home: https://kobs.io
@@ -123,7 +135,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2022-01-09T09:48:20.489265142Z"
+    created: "2022-01-09T10:18:46.264517131Z"
     description: Kubernetes Observability Platform
     digest: 01e5fdac2161fcdafe4a950cf107448f44cfa23958d7979e617554dcd94fdfb4
     home: https://kobs.io
@@ -135,7 +147,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2022-01-09T09:48:20.488509846Z"
+    created: "2022-01-09T10:18:46.26340314Z"
     description: Kubernetes Observability Platform
     digest: edd7512569a37963399ebf70df526153563c56a8fc4cbc7ecf8d855ad87cf8f5
     home: https://kobs.io
@@ -147,7 +159,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2022-01-09T09:48:20.48786255Z"
+    created: "2022-01-09T10:18:46.261418755Z"
     description: Kubernetes Observability Platform
     digest: e26a61d77b055abbb99feb1d555a91b2a7eb977e83545129e04674a0aa176d30
     home: https://kobs.io
@@ -159,7 +171,7 @@ entries:
     version: 0.7.3
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.487195654Z"
+    created: "2022-01-09T10:18:46.259844667Z"
     description: Kubernetes Observability Platform
     digest: 826f187f2b0e3c24a57966468022ec2d9403e432c7cc22de0d19fa4c3fe3792a
     home: https://kobs.io
@@ -171,7 +183,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.486488358Z"
+    created: "2022-01-09T10:18:46.258905674Z"
     description: Kubernetes Observability Platform
     digest: 179a940a8e56a1c49963afddc7c954e7c2a847955fe8c014dce03b135a7031bd
     home: https://kobs.io
@@ -183,7 +195,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.485836662Z"
+    created: "2022-01-09T10:18:46.25813528Z"
     description: Kubernetes Observability Platform
     digest: a6368e35e1db8a41b8a56151a46a7fa7e1817bbf8c22d2ebce573d33ed86acf4
     home: https://kobs.io
@@ -195,7 +207,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.485219666Z"
+    created: "2022-01-09T10:18:46.257339587Z"
     description: Kubernetes Observability Platform
     digest: 077077860d5fae108c0c9eb038b48c0489aee2dd17c34bfb442449626face068
     home: https://kobs.io
@@ -207,7 +219,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.484605169Z"
+    created: "2022-01-09T10:18:46.256685692Z"
     description: Kubernetes Observability Platform
     digest: 65dcfe8829be648a74908596982d826bf8b3168f78b8d557a71568adbd5e52d4
     home: https://kobs.io
@@ -219,7 +231,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.483977573Z"
+    created: "2022-01-09T10:18:46.255924397Z"
     description: Kubernetes Observability Platform
     digest: 71615012c4deec9db105872fa0a7a55aac9f7c1922b064caa5b6a34383e0bf29
     home: https://kobs.io
@@ -231,7 +243,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.483383177Z"
+    created: "2022-01-09T10:18:46.255101004Z"
     description: Kubernetes Observability Platform
     digest: bd6426b8a7ccae71065c5428dc7dac0d75e6d6075fb05adc49063ab83d242a9a
     home: https://kobs.io
@@ -243,7 +255,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2022-01-09T09:48:20.48281878Z"
+    created: "2022-01-09T10:18:46.254433709Z"
     description: Kubernetes Observability Platform
     digest: bd913382ff31946bc24d38e9ab58de2c87b9b85e6b8a0cdc280d97bd2786d3bf
     home: https://kobs.io
@@ -255,7 +267,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2022-01-09T09:48:20.481737187Z"
+    created: "2022-01-09T10:18:46.253729514Z"
     description: Kubernetes Observability Platform
     digest: 51630b06cfd72e3a0c904b76d8d802c2e2f64080be73de2a2498965ec779ac79
     home: https://kobs.io
@@ -267,7 +279,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2022-01-09T09:48:20.480183496Z"
+    created: "2022-01-09T10:18:46.253104719Z"
     description: Kubernetes Observability Platform
     digest: 71ee3372d5037f86823b02fada8e21e68fee1f9c08332b94cd830ea4e40be7c6
     home: https://kobs.io
@@ -279,7 +291,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.4794278Z"
+    created: "2022-01-09T10:18:46.252031627Z"
     description: Kubernetes Observability Platform
     digest: 96c815372cd17043dcee7fa9c43fc6ba02443bbd921f6245b1ad118f3729ae75
     home: https://kobs.io
@@ -291,7 +303,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.478342807Z"
+    created: "2022-01-09T10:18:46.250824637Z"
     description: Kubernetes Observability Platform
     digest: 887db6a5041a820b0633aafa7a19008d020dbb34cfd2f0e6fedbc3cbcae2ff97
     home: https://kobs.io
@@ -303,7 +315,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.477216414Z"
+    created: "2022-01-09T10:18:46.249466347Z"
     description: Kubernetes Observability Platform
     digest: a343b0f8d97e666b509fad86aa4391eab2a81c0870cc973a6cc7dc1cafffeb9d
     home: https://kobs.io
@@ -315,7 +327,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.476376319Z"
+    created: "2022-01-09T10:18:46.248184157Z"
     description: Kubernetes Observability Platform
     digest: 5466ae3bddd7c1f2c1189738b6fd6dbacdc0d9b28ddc38f55ec9cbe2cb95c74d
     home: https://kobs.io
@@ -327,7 +339,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.475612323Z"
+    created: "2022-01-09T10:18:46.247077766Z"
     description: Kubernetes Observability Platform
     digest: b0d8adcefc2cc622f48e40969d2f78d6171d34826a084a9aa185d1de9da1e3e8
     home: https://kobs.io
@@ -339,7 +351,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.474738428Z"
+    created: "2022-01-09T10:18:46.246089973Z"
     description: Kubernetes Observability Platform
     digest: 02adfbe90d9022dc49337b04a0464174e0f7f87d78e6f8cdb1575f1dcb82283e
     home: https://kobs.io
@@ -351,7 +363,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.473898833Z"
+    created: "2022-01-09T10:18:46.245115681Z"
     description: Kubernetes Observability Platform
     digest: 5c043420aaba8eb51b2105cd50a6f704eb89327c44b72fafa9c649e3c20b9436
     home: https://kobs.io
@@ -363,7 +375,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.473158438Z"
+    created: "2022-01-09T10:18:46.244117388Z"
     description: Kubernetes Observability Platform
     digest: c66f129f407d9753fffacfdada02f71e9fc33471f99d8a1337bb361995e3f9d3
     home: https://kobs.io
@@ -375,7 +387,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.472444242Z"
+    created: "2022-01-09T10:18:46.243141896Z"
     description: Kubernetes Observability Platform
     digest: 5c6923b00dacc3729af29908b0e42d341c1c74b8518d1326257d26548760d29a
     home: https://kobs.io
@@ -387,7 +399,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2022-01-09T09:48:20.471724646Z"
+    created: "2022-01-09T10:18:46.242160903Z"
     description: Kubernetes Observability Platform
     digest: 67e6576e412183f1dd3d736b194c05bdbd33ffc54c33b2022d9354813b3a45c0
     home: https://kobs.io
@@ -399,7 +411,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2022-01-09T09:48:20.470910551Z"
+    created: "2022-01-09T10:18:46.240695215Z"
     description: Kubernetes Observability Platform
     digest: a96cf5e92adde5baf313f34911e10ec7ccda9eca81a759423fb0581716b6e66e
     home: https://kobs.io
@@ -411,7 +423,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2022-01-09T09:48:20.470043356Z"
+    created: "2022-01-09T10:18:46.239224826Z"
     description: Kubernetes Observability Platform
     digest: 1c17408be97a405c9fb21b73fe8bb68fce037f85e52ceabb08b2c95c7ec4c6e0
     home: https://kobs.io
@@ -423,7 +435,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2022-01-09T09:48:20.469153762Z"
+    created: "2022-01-09T10:18:46.237953936Z"
     description: Kubernetes Observability Platform
     digest: 59fcb666f8900933c19610e486da38bc5c664c389df49c5d4efa0d2bc7dcf3a0
     home: https://kobs.io
@@ -435,7 +447,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2022-01-09T09:48:20.464644489Z"
+    created: "2022-01-09T10:18:46.22698212Z"
     description: Kubernetes Observability Platform
     digest: eccc5e443d9adb136d13df3a587f9ffa40eb06a191342a8e8bad1a39261b5409
     home: https://kobs.io
@@ -447,7 +459,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-01-09T09:48:20.463953293Z"
+    created: "2022-01-09T10:18:46.225860329Z"
     description: Kubernetes Observability Platform
     digest: 7360f0855ac987a865a1f135d80f5aefd51e86f74277496f699fc225f93f470a
     home: https://kobs.io
@@ -459,7 +471,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-01-09T09:48:20.463314396Z"
+    created: "2022-01-09T10:18:46.224777737Z"
     description: Kubernetes Observability Platform
     digest: aac60b2d8e5a6c484483b14d25c2f07dfc376bf5830f06a9cc0972fa39921e1c
     home: https://kobs.io
@@ -469,4 +481,4 @@ entries:
     urls:
     - https://helm.kobs.io/kobs-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-09T09:48:20.462352702Z"
+generated: "2022-01-09T10:18:46.223492947Z"
