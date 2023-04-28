@@ -1,15 +1,3 @@
 # Helm Repository
 
-Add this Helm repository:
-
-```sh
-helm repo add kobs https://helm.kobs.io
-helm repo list
-```
-
-Update and show charts:
-
-```sh
-helm repo update
-helm search repo -l kobs/
-```
+The documentation for the Helm chart can be found at [https://kobs.io/main/getting-started/installation/helm/](https://kobs.io/main/getting-started/installation/helm/).
